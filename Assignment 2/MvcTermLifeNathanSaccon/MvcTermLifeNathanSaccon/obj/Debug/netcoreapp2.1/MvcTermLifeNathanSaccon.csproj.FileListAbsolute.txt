@@ -1,0 +1,72 @@
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.deps.json
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.json
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.dev.json
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.dll
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csprojAssemblyReference.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CoreCompileInputs.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cs
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfoInputs.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfo.cs
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.input.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.output.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorCoreGenerate.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Quotes.g.cshtml.cs
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cache
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cs
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+G:\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Lab 3\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CopyComplete
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.deps.json
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.json
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.dev.json
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.dll
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cs
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfo.cs
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.input.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.output.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorCoreGenerate.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Quotes.g.cshtml.cs
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cache
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cs
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+C:\Users\natha\Desktop\MvcTermLifeNathanSaccon (1)\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CopyComplete
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.deps.json
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.json
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.runtimeconfig.dev.json
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.dll
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\bin\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csprojAssemblyReference.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorAssemblyInfo.cs
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.AssemblyInfo.cs
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.input.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.TagHelpers.output.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorCoreGenerate.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Quotes.g.cshtml.cs
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cache
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.RazorTargetAssemblyInfo.cs
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.Views.pdb
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.dll
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.pdb
+C:\Users\natha\Documents\School\Fall 2018\PROG2230 - Programming Microsoft Web Technologies\Assignment 2\MvcTermLifeNathanSaccon\MvcTermLifeNathanSaccon\obj\Debug\netcoreapp2.1\MvcTermLifeNathanSaccon.csproj.CopyComplete

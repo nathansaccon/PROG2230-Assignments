@@ -1,0 +1,9 @@
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\bin\Debug\netcoreapp2.1\NSClassLibrary.deps.json
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\bin\Debug\netcoreapp2.1\NSClassLibrary.dll
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\bin\Debug\netcoreapp2.1\NSClassLibrary.pdb
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.csprojAssemblyReference.cache
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.AssemblyInfo.cs
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.dll
+C:\Users\natha\Documents\School 2018 Fall\PROG2230 - Programming Microsoft Web Technologies\Assignment 5\NSSail\NSClassLibrary\obj\Debug\netcoreapp2.1\NSClassLibrary.pdb

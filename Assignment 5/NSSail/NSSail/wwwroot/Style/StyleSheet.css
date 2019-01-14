@@ -1,0 +1,32 @@
+﻿
+
+footer li {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+
+footer {
+    background-color: #333333;
+}
+
+footer p{
+    color:white;
+    clear:right;
+    float:left;
+    margin-top:14px;
+    margin-bottom:14px;
+    margin-left: 2em;
+}
+
+img {
+    float: left;
+    clear: right;
+}
+
+#guestMessage{
+    color: red;
+    font-weight: bold;
+}

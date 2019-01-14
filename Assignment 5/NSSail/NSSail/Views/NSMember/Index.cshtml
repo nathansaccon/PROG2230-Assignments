@@ -1,0 +1,71 @@
+﻿@model IEnumerable<NSSail.Models.Member>
+
+@{
+    ViewData["Title"] = "Member List";
+}
+
+<h2>Member List</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                Home Phone
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                Year Joined
+            </th>
+            <th>
+                Comments
+            </th>
+            <th>
+                Task Exempt?
+            </th>
+            <th>
+                Use Canada Post?
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.OrderBy(x => x.FullName)) {
+        <tr>
+            <td>
+                <a asp-action="Index" asp-controller="NSMembership" asp-route-id="@item.MemberId">@Html.DisplayFor(modelItem => item.FullName)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HomePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearJoined)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaskExempt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UseCanadaPost)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

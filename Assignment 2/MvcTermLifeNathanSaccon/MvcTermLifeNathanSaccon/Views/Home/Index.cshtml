@@ -1,0 +1,17 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Term Insurance</title>
+</head>
+<body>
+    @Html.ValidationSummary()
+    <form action="/Home/Index" method="post">
+        <p>Name: @Html.TextBox("Name")</p>
+        <p>Age: @Html.TextBox("Age")</p>
+        <p>Amount: @Html.TextBox("Amount")</p>
+        <input type="submit" value="Get Quote" />
+    </form>
+</body>
+</html>
